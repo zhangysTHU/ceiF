@@ -32,5 +32,16 @@ fsdhasf
 [id]:https://zh.d2l.ai/chapter_preface/index.html"深度学习的相应教材"
 跳转[this is the second title](#this is the second title)
 
-![figure1](C:\Users\张羽飒\R-C)
+![figure1](C:\Users\张羽飒\Desktop\R-C)
+
+*xieti*  
+**jiacu**  
+`printf("hello world");`  
+<u> xiahuaxian </u>
+:cry:  
+H~2~O  
+x^3^  
+== changshi == 
+
+
 
